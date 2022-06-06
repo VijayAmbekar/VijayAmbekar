@@ -23,6 +23,8 @@
   </a>
   <a href="https://www.linkedin.com/in/vijay-ambekar" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/linkedin.svg" width="32" height="32" /></a>
+  <a href="https://stackoverflow.com/users/3624759/vijay" target="_blank" rel="noreferrer">
+    <img src="https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse1.mm.bing.net%2Fth%3Fid%3DOIP.32R-va0__KBPu34eWeoPAQHaHa%26pid%3DApi%26h%3D160&f=1" width="32" height="32" /></a>
 
 ### Badges
   
